@@ -1,5 +1,5 @@
 {
   "buildCommand": "ng build",
-  "outputDirectory": "dist/breezely-frontend/browser",
+  "outputDirectory": "dist/breezely-frontend",
   "framework": "angular"
 }
